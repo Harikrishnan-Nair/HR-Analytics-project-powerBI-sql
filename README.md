@@ -14,3 +14,10 @@ The original dataset had columns as below:
 11. Termdate
 12. Location_city
 13. Location_state
+
+
+Key insights 
+1.	Since its inception of company there is a positive change in the percentage of employees joining the organisation
+2.	Majority of the employees, approx. 75% are working from the headquarters
+3.	Ohio state constitutes of the major portion employees
+4.	83% of the organisation belong to the age group of 25-54 years 
