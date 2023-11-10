@@ -14,6 +14,7 @@ The original dataset had columns as below:
 11. Termdate
 12. Location_city
 13. Location_state
+![HR analytics project_page1](https://github.com/Harikrishnan-Nair/HR-Analytics-project-powerBI-sql/assets/95662379/0fa1c335-6886-49d8-a5b8-07905d7a54a0)
 
 
 Key insights 
